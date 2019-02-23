@@ -43,6 +43,9 @@ In `heat` and `cool` (not supported at the moment) modes you can still change ma
 
 `heat` and `cool` (not supported at the moment) modes rapresent the automatic mode. In those modes climate entity state will be `auto`.
 
+After a restart of Home Assistant, room temperature e planned room temperature will match till `actual_temp_sensor` will return a temperature value.
+This is done to avoid possible issues with Homekit support with temperature sensor that need some time to sync with Home Assistant.
+
 **`cool` mode is not supported at the moment. It will be in a future release.**
 
 ## NOTE
