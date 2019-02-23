@@ -52,4 +52,8 @@ This component has been developed for the bigger project of building a smart the
 Due to how `custom_components` are loaded, it could be possible to have a `ModuleNotFoundError` error on first boot after adding this; to resolve it, restart Home-Assistant.
 
 ***
+![logo][2]
+
+
 [1]: https://github.com/MapoDan/home-assistant/tree/master/custom_components/sensor.file_restore
+[2]: https://github.com/MapoDan/home-assistant/blob/master/mapodanlogo.png
