@@ -46,4 +46,4 @@ Due to how `custom_components` are loaded, it could be possible to have a `Modul
 ***
 ![logo][1]
 
-[1]: mapodanlogo.png
+[1]: https://github.com/MapoDan/home-assistant/blob/master/mapodanlogo.png
