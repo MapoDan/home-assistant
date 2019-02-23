@@ -44,3 +44,6 @@ This component has been developed for the bigger project of building a smart the
 Due to how `custom_components` are loaded, it could be possible to have a `ModuleNotFoundError` error on first boot after adding this; to resolve it, restart Home-Assistant.
 
 ***
+![logo][1]
+
+[1]: mapodanlogo.png
