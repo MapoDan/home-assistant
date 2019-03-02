@@ -3,6 +3,7 @@ This component is a revision of the official Home Assistant component 'Generic T
 
 ## HOW TO INSTALL
 Just copy paste the content of the `climate.programmable_thermostat/custom_components` folder in your `config/custom_components` directory.
+
 As example you will get the '.py' file in the following path: `/config/custom_components/programmable_thermostat/climate.py`.
 
 ## EXAMPLE OF SETUP
