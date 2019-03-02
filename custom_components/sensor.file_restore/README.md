@@ -5,6 +5,11 @@ The component include also a special attribute that include the all the value re
 
 `file_restore` component has been developed to fulfill the need of a Home Assistant object that is able to return a value different per each hour and day of in a week with also the custom attribute that was necessary for my scope.
 
+## HOW TO INSTALL
+Just copy paste the content of the `sensor.file_restore/custom_components` folder in your `config/custom_components` directory.
+
+As example you will get the '.py' file in the following path: `/config/custom_components/file_restore/sensor.py`.
+
 ## EXAMPLE OF SETUP
 ```yaml
 sensor:
