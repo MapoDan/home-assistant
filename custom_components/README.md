@@ -25,4 +25,4 @@ custom_updater:
 [1]: https://github.com/custom-components
 [2]: https://github.com/custom-components/sensor.file_restore
 [3]: https://github.com/custom-components/climate.programmable_thermostat
-[4]: home-assistant/mapodanlogo.png
+[4]: https://github.com/MapoDan/home-assistant/blob/master/mapodanlogo.png
