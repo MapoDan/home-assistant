@@ -12,13 +12,7 @@ Compontents that I have developed are the following
 On custom-components repository you can find all the information about them.
 
 ## NOTE
-You should include the following in your `custom_updater` configuration till I figure out how to automatically do it with `customjson`.
-
-```yaml
-custom_updater:
-  component_urls:
-    - https://raw.githubusercontent.com/MapoDan/home-assistant/master/custom_components/custom_components.json
-```
+All components are available through HACS.
 
 ![logo][4]
 
